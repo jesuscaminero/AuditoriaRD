@@ -1,5 +1,4 @@
 # AuditoriaRD
-Sistema de gestión integrada alimentado con información disponible en las instituciones gubernamentales de República Dominicana con el propósito de fiscalizar y analizar el gasto público.
 
 ## Descripción del Proyecto
 El objetivo principal es recopilar todas las nóminas de los portales de las instituciones gubernamentales en República Dominicana, unificar los criterios de estas nóminas y consolidarlas en una base de datos compartida. Además, se llevará a cabo una investigación de todos los altos funcionarios del gobierno, tanto políticos como aquellos en posiciones clave en las instituciones gubernamentales y miembros de los principales partidos políticos. Se buscarán relaciones parentescas entre estos funcionarios y se creará otra base de datos con esa información. Posteriormente, se desarrollará un mecanismo para cruzar esta información y detectar posibles anomalías en las nóminas, así como identificar familiares de funcionarios en diferentes instituciones.
